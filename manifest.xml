@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote name="origin" fetch="https://github.combizhan/" />
+	<remote name="origin" fetch="https://github.com/bizhan/" />
   <default revision="master" remote="origin" />
 
   <project name="test_manifest" path="test_manifest" />
